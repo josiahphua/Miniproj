@@ -1,0 +1,55 @@
+body {
+    background-color: #e4fbff;
+    background-image: url('Jia\ By\ Jia\ Yi.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+hr {
+    border: none;
+    border-top: 5px dotted #7868e6;
+    width: 5rem;
+    margin: 30px auto;
+}
+
+h1 {
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+h2 {
+    font-family: 'Caveat', cursive;
+}
+
+
+.ies {
+    font-family: 'Dosis', sans-serif;
+    float: left;
+}
+
+.footer {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.6rem;
+}
+
+.page-break-footer {
+    text-align: center;
+    margin: 10rem auto;
+}
+
+#para1 {
+    width: 500px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+#ies1, #ies2, #ies3 {
+    width: 33%;
+    margin: 50px auto;
+}
+
+
+
+
